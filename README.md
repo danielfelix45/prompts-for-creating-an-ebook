@@ -1,3 +1,5 @@
+# Projeto EBOOK Gerado por I.A.s
+
 <p align="center">
 <img 
     src="./assets/capa-ebook.png"
@@ -12,8 +14,6 @@
     width="200"  
 />
 </p>
-
-# Projeto EBOOK Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório de um desafio desenvolvido durante o curso na plataforma da [DIO](https://dio.me)
