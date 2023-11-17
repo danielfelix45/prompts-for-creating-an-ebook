@@ -1,15 +1,15 @@
 <p align="center">
 <img 
     src="./assets/capa-ebook.png"
-    width="300"  
+    width="200"  
 />
 <img 
     src="./assets/pagina-capitulo.png"
-    width="300"  
+    width="200"  
 />
 <img 
     src="./assets/logo-pagina.png"
-    width="300"  
+    width="200"  
 />
 </p>
 
